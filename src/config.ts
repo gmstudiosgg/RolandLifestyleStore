@@ -8,7 +8,7 @@ export default {
             position: new Vector3(6.96862, 5.72577, 7.34845)
         },
         top: {
-            name: "BRAND\nNAME",
+            name: "Roland Lifestyle",
             fontSize: 6,
             color: new Color3(0.1, 0.1, 0.1),
             position: new Vector3(0, 5.84663, 6.39477)
@@ -18,30 +18,30 @@ export default {
         {
             name: "HOMEPAGE",
             model: "models/social_media/homepage.glb",
-            link: "https://www.decentraland.org",
+            link: "https://www.rolandlifestyle.io/",
             position: new Vector3(1.5, 1.3, -5.35)
         },
         {
             name: "DISCORD",
             model: "models/social_media/discord.glb",
-            link: "https://www.discord.org",
+            link: "https://twitter.com/RolandLifestyle",
             position: new Vector3(0.5, 1.3, -5.35)
         },
         {
             name: "TWITTER",
             model: "models/social_media/twitter.glb",
-            link: "https://www.twitter.com",
+            link: "https://www.gmstudios.gg/",
             position: new Vector3(-0.5, 1.3, -5.35)
         },
         {
             name: "TELEGRAM",
             model: "models/social_media/telegram.glb",
-            link: "https://www.telegram.org",
+            link: "https://twitter.com/randomraversgg",
             position: new Vector3(-1.5, 1.3, -5.35)
         }
     ],
     videoScreen: {
-        src: "https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875",
+        src: "https://player.vimeo.com/external/809539680.m3u8?s=f5b98cec00bd7ef345949673fcb395399711e80b",
         width: 1280,
         height: 720
     },
