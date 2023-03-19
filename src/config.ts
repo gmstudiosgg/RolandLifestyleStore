@@ -10,31 +10,31 @@ export default {
         top: {
             name: "Roland Lifestyle",
             fontSize: 6,
-            color: new Color3(0.1, 0.1, 0.1),
+            color: new Color3(255, 102, 0),
             position: new Vector3(0, 5.84663, 6.39477)
         }
     },
     socialMedia: [
         {
-            name: "HOMEPAGE",
+            name: "ROLAND LIFESTYLE",
             model: "models/social_media/homepage.glb",
             link: "https://www.rolandlifestyle.io/",
             position: new Vector3(1.5, 1.3, -5.35)
         },
         {
-            name: "DISCORD",
+            name: "TWITTER",
             model: "models/social_media/discord.glb",
             link: "https://twitter.com/RolandLifestyle",
             position: new Vector3(0.5, 1.3, -5.35)
         },
         {
-            name: "TWITTER",
+            name: "GM STUDIOS",
             model: "models/social_media/twitter.glb",
             link: "https://www.gmstudios.gg/",
             position: new Vector3(-0.5, 1.3, -5.35)
         },
         {
-            name: "TELEGRAM",
+            name: "RANDOM RAVERS",
             model: "models/social_media/telegram.glb",
             link: "https://twitter.com/randomraversgg",
             position: new Vector3(-1.5, 1.3, -5.35)
@@ -47,30 +47,30 @@ export default {
     },
     wearable: [
         {
-            name: "Razor Blade Jacket",
+            name: "808 Puffer Jacket",
             model: "models/wearables/1.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://market.decentraland.org/contracts/0x873c11f798fc6f6c370c40f460aae4e20069b105/items/2",
             position: new Vector3(4.2, -0.1, 5.1),
             rotation: Quaternion.Euler(0, 0, 0)
         },
         {
-            name: "DCL Logo Hoddie",
+            name: "808 Puffer Jacket MVFW",
             model: "models/wearables/2.glb",
             link: "https://market.decentraland.org/",
             position: new Vector3(-4.2, -0.1, 5.1),
             rotation: Quaternion.Euler(0, 0, 0)
         },
         {
-            name: "Aviator",
+            name: "Katakana Track Jacket",
             model: "models/wearables/3.glb",
             link: "https://market.decentraland.org/",
             position: new Vector3(5.1, -1, -3.3),
             rotation: Quaternion.Euler(0, -90, 0)
         },
         {
-            name: "Over9000", 
+            name: "Sequencer Shirt", 
             model: "models/wearables/4.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://market.decentraland.org/contracts/0x873c11f798fc6f6c370c40f460aae4e20069b105/items/0/",
             position: new Vector3(-5.1, -1, -3.3),
             rotation: Quaternion.Euler(0, 90, 0)
         },
