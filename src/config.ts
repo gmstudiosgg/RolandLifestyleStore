@@ -10,7 +10,7 @@ export default {
         top: {
             name: "Roland Lifestyle",
             fontSize: 6,
-            color: new Color3(255, 102, 0),
+            color: new Color3(1, 0.4, 0),
             position: new Vector3(0, 5.84663, 6.39477)
         }
     },
