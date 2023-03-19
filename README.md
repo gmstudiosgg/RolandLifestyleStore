@@ -1,4 +1,4 @@
-# Store Template
+# Roland Lifestyle Store by GM Studios
  
  A basic generic virtual store for wearables and other tokens
 
