@@ -1,14 +1,14 @@
 {
   "display": {
-    "title": "DCL Scene",
-    "description": "My new Decentraland project",
+    "title": "Roland Lifestyle Store by GM Studios",
+    "description": "Roland Lifestyle Store by GM Studios",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
-  "owner": "",
+  "owner": "GM Studios",
   "contact": {
-    "name": "author-name",
-    "email": ""
+    "name": "GM Studios",
+    "email": "contact@gmstudios.gg"
   },
   "main": "bin/game.js",
   "tags": [],
