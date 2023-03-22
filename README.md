@@ -1,6 +1,7 @@
 # Roland Lifestyle Store by GM Studios
  
- A basic generic virtual store for wearables and other tokens
+
+A virtual store for Roland Lifestyle brand.
 
 
 ![](screenshot/screenshot.png)
