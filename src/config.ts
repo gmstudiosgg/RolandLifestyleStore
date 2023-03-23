@@ -64,14 +64,14 @@ export default {
             name: "Katakana Track Jacket",
             model: "models/wearables/3.glb",
             link: "https://market.decentraland.org/",
-            position: new Vector3(5.1, -1, -3.3),
+            position: new Vector3(5.1, 0.05, -3.3),
             rotation: Quaternion.Euler(0, -90, 0)
         },
         {
             name: "Sequencer Shirt", 
             model: "models/wearables/4.glb",
             link: "https://market.decentraland.org/contracts/0x873c11f798fc6f6c370c40f460aae4e20069b105/items/0/",
-            position: new Vector3(-5.1, -1, -3.3),
+            position: new Vector3(-5.1, 0.05, -3.3),
             rotation: Quaternion.Euler(0, 90, 0)
         },
         {
